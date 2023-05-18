@@ -106,4 +106,4 @@ async function main(filename: string) {
   console.log(`Finished processing. CSV file complete.`);
 }
 
-main("1");
+main("all");
